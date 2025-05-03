@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-This Is Rock Paper Scissors Game as Its Console Beased It Is AvailbleFor All PCs
+This Is Rock Paper Scissors Game as Its Console Beased It Is AvailbleFor All PCs With Python i Think Soo...
